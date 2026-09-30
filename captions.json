@@ -1,0 +1,938 @@
+[
+ {
+  "seq": 1,
+  "date": "2026-10-05",
+  "filename": "001_erp_showcase.png",
+  "caption": "🚀 Business Management System — powered by Google Sheets! One dashboard for sales, purchases, inventory & accounting. No monthly fees, free training included. 📩 Message us for a FREE consultation! #BusinessSystem #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 2,
+  "date": "2026-10-07",
+  "filename": "002_sales_hook.png",
+  "caption": "🛒 Losing sales because of empty shelves? There's a better way — our Sales & Inventory System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #Inventory #FormulaWorksSolutions"
+ },
+ {
+  "seq": 3,
+  "date": "2026-10-09",
+  "filename": "003_hris_features.png",
+  "caption": "✅ What you get with our HR & Payroll System: Employee records, attendance & leave management • Payroll-ready computations • Approval workflows & HR reports — plus free training & no monthly fees! 📩 FREE consultation! #Payroll #FormulaWorksSolutions"
+ },
+ {
+  "seq": 4,
+  "date": "2026-10-12",
+  "filename": "004_water_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Untracked deliveries and containers quietly drain water station profits daily. Our Water Refilling Station System fixes exactly this. 📩 Message us for a FREE consultation! #WaterStation #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 5,
+  "date": "2026-10-14",
+  "filename": "005_laundry_zoomkpi.png",
+  "caption": "📊 A peek inside our Laundry Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #LaundryBusiness #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 6,
+  "date": "2026-10-16",
+  "filename": "006_property_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Property Management System. 📩 Message us for a FREE consultation! #PropertyManagement #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 7,
+  "date": "2026-10-19",
+  "filename": "007_hotel_benefit.png",
+  "caption": "🏨 Rooms, restaurant & housekeeping - one connected system. That's our Hotel & Restaurant System, powered by Google Sheets. 📩 FREE consultation — message us today! #HotelManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 8,
+  "date": "2026-10-21",
+  "filename": "008_clinic_faq.png",
+  "caption": "❓ \"Is patient data secure?\" 👉 Yes - it lives in YOUR own Google account, not on someone else's server. — Clinic Management System. Got more questions? 📩 Message us for a FREE consultation! #ClinicManagement #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 9,
+  "date": "2026-10-23",
+  "filename": "009_school_tip.png",
+  "caption": "💡 BUSINESS TIP: Send fee reminders before exams week - collection doubles. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #SchoolManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 10,
+  "date": "2026-10-26",
+  "filename": "010_lending_stat.png",
+  "caption": "🔥 94%+ — collection rates with daily due-date lists! Get your own Loan Management System, powered by Google Sheets. 📩 FREE consultation! #LendingBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 11,
+  "date": "2026-10-28",
+  "filename": "011_gym_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Gym Membership System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #GymBusiness #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 12,
+  "date": "2026-10-30",
+  "filename": "012_excel_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Excel Dashboards & Templates would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #ExcelDashboard #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 13,
+  "date": "2026-11-02",
+  "filename": "013_brand_01.png",
+  "caption": "💡 Why do we build on Google Sheets? No monthly fees, no licenses, and your data stays in YOUR account. 📩 Message us for a FREE consultation! #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 14,
+  "date": "2026-11-04",
+  "filename": "014_sales_showcase.png",
+  "caption": "🚀 Sales & Inventory System — powered by Google Sheets! Know exactly what's selling, what's left, and what to reorder. No monthly fees, free training included. 📩 Message us for a FREE consultation! #Inventory #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 15,
+  "date": "2026-11-06",
+  "filename": "015_hris_hook.png",
+  "caption": "👥 Payroll taking you 3 days every cutoff? There's a better way — our HR & Payroll System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #Payroll #FormulaWorksSolutions"
+ },
+ {
+  "seq": 16,
+  "date": "2026-11-09",
+  "filename": "016_water_features.png",
+  "caption": "✅ What you get with our Water Refilling Station System: Track gallons sold, deliveries & riders • Customer & container monitoring • Daily sales & expense summaries — plus free training & no monthly fees! 📩 FREE consultation! #WaterStation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 17,
+  "date": "2026-11-11",
+  "filename": "017_laundry_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? A single misplaced job order can cost you a loyal laundry customer forever. Our Laundry Management System fixes exactly this. 📩 Message us for a FREE consultation! #LaundryBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 18,
+  "date": "2026-11-13",
+  "filename": "018_property_zoomkpi.png",
+  "caption": "📊 A peek inside our Property Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #PropertyManagement #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 19,
+  "date": "2026-11-16",
+  "filename": "019_hotel_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Hotel & Restaurant System. 📩 Message us for a FREE consultation! #HotelManagement #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 20,
+  "date": "2026-11-18",
+  "filename": "020_clinic_benefit.png",
+  "caption": "🏥 Patient records, appointments & billing - organized and instant. That's our Clinic Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #ClinicManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 21,
+  "date": "2026-11-20",
+  "filename": "021_school_faq.png",
+  "caption": "❓ \"Can parents' balances be tracked per student?\" 👉 Yes - every payment posts to the student ledger instantly. — School Management System. Got more questions? 📩 Message us for a FREE consultation! #SchoolManagement #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 22,
+  "date": "2026-11-23",
+  "filename": "022_lending_tip.png",
+  "caption": "💡 BUSINESS TIP: Call past-due borrowers within 48 hours. Recovery drops fast after day 3. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #LendingBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 23,
+  "date": "2026-11-25",
+  "filename": "023_gym_stat.png",
+  "caption": "🔥 +40% — renewals when expiry alerts fire on time! Get your own Gym Membership System, powered by Google Sheets. 📩 FREE consultation! #GymBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 24,
+  "date": "2026-11-27",
+  "filename": "024_excel_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Excel Dashboards & Templates! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #ExcelDashboard #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 25,
+  "date": "2026-11-30",
+  "filename": "025_erp_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Business Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #BusinessSystem #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 26,
+  "date": "2026-12-02",
+  "filename": "026_brand_02.png",
+  "caption": "🛠️ Whatever your business, we have a system for it - 12 and counting! 📩 Message us for a FREE consultation! #BusinessSystems #FormulaWorksSolutions"
+ },
+ {
+  "seq": 27,
+  "date": "2026-12-04",
+  "filename": "027_hris_showcase.png",
+  "caption": "🚀 HR & Payroll System — powered by Google Sheets! Attendance, leave & payroll - computed, not calculated by hand. No monthly fees, free training included. 📩 Message us for a FREE consultation! #Payroll #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 28,
+  "date": "2026-12-07",
+  "filename": "028_water_hook.png",
+  "caption": "💧 How many gallons did you ACTUALLY sell today? There's a better way — our Water Refilling Station System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #WaterStation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 29,
+  "date": "2026-12-09",
+  "filename": "029_laundry_features.png",
+  "caption": "✅ What you get with our Laundry Management System: Job orders with kilo & service tracking • Pickup & delivery scheduling • Customer history & daily revenue reports — plus free training & no monthly fees! 📩 FREE consultation! #LaundryBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 30,
+  "date": "2026-12-11",
+  "filename": "030_property_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Landlords using manual tracking miss up to 15% of collectible late fees. Our Property Management System fixes exactly this. 📩 Message us for a FREE consultation! #PropertyManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 31,
+  "date": "2026-12-14",
+  "filename": "031_hotel_zoomkpi.png",
+  "caption": "📊 A peek inside our Hotel & Restaurant System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #HotelManagement #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 32,
+  "date": "2026-12-16",
+  "filename": "032_clinic_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Clinic Management System. 📩 Message us for a FREE consultation! #ClinicManagement #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 33,
+  "date": "2026-12-18",
+  "filename": "033_school_benefit.png",
+  "caption": "🏫 Enrollment, fees & grades - one organized system. That's our School Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #SchoolManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 34,
+  "date": "2026-12-21",
+  "filename": "034_lending_faq.png",
+  "caption": "❓ \"Can it compute amortization automatically?\" 👉 Yes - schedules generate instantly when a loan is released. — Loan Management System. Got more questions? 📩 Message us for a FREE consultation! #LendingBusiness #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 35,
+  "date": "2026-12-23",
+  "filename": "035_gym_tip.png",
+  "caption": "💡 BUSINESS TIP: Greet members by name at check-in. Retention is personal. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #GymBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 36,
+  "date": "2026-12-25",
+  "filename": "036_excel_stat.png",
+  "caption": "🔥 8 hours — of weekly reporting reduced to one refresh click! Get your own Excel Dashboards & Templates, powered by Google Sheets. 📩 FREE consultation! #ExcelDashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 37,
+  "date": "2026-12-28",
+  "filename": "037_erp_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Business Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #BusinessSystem #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 38,
+  "date": "2026-12-30",
+  "filename": "038_sales_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Sales & Inventory System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #Inventory #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 39,
+  "date": "2027-01-01",
+  "filename": "039_brand_03.png",
+  "caption": "🚀 Getting your own system is easy: consult, build, launch. Most systems are ready in days, not months! 📩 Message us! #FormulaWorksSolutions"
+ },
+ {
+  "seq": 40,
+  "date": "2027-01-04",
+  "filename": "040_water_showcase.png",
+  "caption": "🚀 Water Refilling Station System — powered by Google Sheets! Every gallon, every rider, every peso - accounted for. No monthly fees, free training included. 📩 Message us for a FREE consultation! #WaterStation #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 41,
+  "date": "2027-01-06",
+  "filename": "041_laundry_hook.png",
+  "caption": "🧺 Lost another customer's laundry ticket? There's a better way — our Laundry Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #LaundryBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 42,
+  "date": "2027-01-08",
+  "filename": "042_property_features.png",
+  "caption": "✅ What you get with our Property Management System: Tenants, units, leases & payments in one view • Overdue alerts & collection tracking • Occupancy & maintenance dashboards — plus free training & no monthly fees! 📩 FREE consultation! #PropertyManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 43,
+  "date": "2027-01-11",
+  "filename": "043_hotel_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Double bookings and lost restaurant orders are the top revenue leaks in small hotels. Our Hotel & Restaurant System fixes exactly this. 📩 Message us for a FREE consultation! #HotelManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 44,
+  "date": "2027-01-13",
+  "filename": "044_clinic_zoomkpi.png",
+  "caption": "📊 A peek inside our Clinic Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #ClinicManagement #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 45,
+  "date": "2027-01-15",
+  "filename": "045_school_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our School Management System. 📩 Message us for a FREE consultation! #SchoolManagement #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 46,
+  "date": "2027-01-18",
+  "filename": "046_lending_benefit.png",
+  "caption": "💰 Every borrower, every due date, every peso - tracked. That's our Loan Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #LendingBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 47,
+  "date": "2027-01-20",
+  "filename": "047_gym_faq.png",
+  "caption": "❓ \"Can it remind members before expiry?\" 👉 Yes - expiring memberships get flagged a week ahead automatically. — Gym Membership System. Got more questions? 📩 Message us for a FREE consultation! #GymBusiness #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 48,
+  "date": "2027-01-22",
+  "filename": "048_excel_tip.png",
+  "caption": "💡 BUSINESS TIP: If a report takes more than 10 minutes to build, it should be automated. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #ExcelDashboard #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 49,
+  "date": "2027-01-25",
+  "filename": "049_erp_stat.png",
+  "caption": "🔥 10+ hours — saved every week with automated records! Get your own Business Management System, powered by Google Sheets. 📩 FREE consultation! #BusinessSystem #FormulaWorksSolutions"
+ },
+ {
+  "seq": 50,
+  "date": "2027-01-27",
+  "filename": "050_sales_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Sales & Inventory System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #Inventory #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 51,
+  "date": "2027-01-29",
+  "filename": "051_hris_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a HR & Payroll System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #Payroll #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 52,
+  "date": "2027-02-01",
+  "filename": "052_brand_04.png",
+  "caption": "🎨 Off-the-shelf software forces you to adjust. We build around YOUR process instead. 📩 FREE consultation! #CustomSoftware #FormulaWorksSolutions"
+ },
+ {
+  "seq": 53,
+  "date": "2027-02-03",
+  "filename": "053_laundry_showcase.png",
+  "caption": "🚀 Laundry Management System — powered by Google Sheets! Every kilo tracked, every pickup scheduled, every customer happy. No monthly fees, free training included. 📩 Message us for a FREE consultation! #LaundryBusiness #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 54,
+  "date": "2027-02-05",
+  "filename": "054_property_hook.png",
+  "caption": "🏘️ Chasing tenants for rent every month? There's a better way — our Property Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #PropertyManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 55,
+  "date": "2027-02-08",
+  "filename": "055_hotel_features.png",
+  "caption": "✅ What you get with our Hotel & Restaurant System: Room reservations & front desk management • Restaurant POS with kitchen orders • Housekeeping, billing & reports — plus free training & no monthly fees! 📩 FREE consultation! #HotelManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 56,
+  "date": "2027-02-10",
+  "filename": "056_clinic_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Clinics spend up to 30% of staff time just searching for patient records. Our Clinic Management System fixes exactly this. 📩 Message us for a FREE consultation! #ClinicManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 57,
+  "date": "2027-02-12",
+  "filename": "057_school_zoomkpi.png",
+  "caption": "📊 A peek inside our School Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #SchoolManagement #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 58,
+  "date": "2027-02-15",
+  "filename": "058_lending_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Loan Management System. 📩 Message us for a FREE consultation! #LendingBusiness #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 59,
+  "date": "2027-02-17",
+  "filename": "059_gym_benefit.png",
+  "caption": "🏋️ Check-ins, renewals & sales - your gym on autopilot. That's our Gym Membership System, powered by Google Sheets. 📩 FREE consultation — message us today! #GymBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 60,
+  "date": "2027-02-19",
+  "filename": "060_excel_faq.png",
+  "caption": "❓ \"Will it work with my existing Excel files?\" 👉 Yes - we build dashboards on top of YOUR current data. — Excel Dashboards & Templates. Got more questions? 📩 Message us for a FREE consultation! #ExcelDashboard #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 61,
+  "date": "2027-02-22",
+  "filename": "061_erp_tip.png",
+  "caption": "💡 BUSINESS TIP: Review your top 5 expenses every Friday. Small leaks sink big ships. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #BusinessSystem #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 62,
+  "date": "2027-02-24",
+  "filename": "062_sales_stat.png",
+  "caption": "🔥 Zero — stockouts when reorder alerts do the watching for you! Get your own Sales & Inventory System, powered by Google Sheets. 📩 FREE consultation! #Inventory #FormulaWorksSolutions"
+ },
+ {
+  "seq": 63,
+  "date": "2027-02-26",
+  "filename": "063_hris_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our HR & Payroll System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #Payroll #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 64,
+  "date": "2027-03-01",
+  "filename": "064_water_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Water Refilling Station System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #WaterStation #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 65,
+  "date": "2027-03-03",
+  "filename": "065_brand_05.png",
+  "caption": "🌐 Check your sales from the beach. Approve leaves from a coffee shop. Cloud-based means freedom! 📩 Message us! #CloudBased #FormulaWorksSolutions"
+ },
+ {
+  "seq": 66,
+  "date": "2027-03-05",
+  "filename": "066_property_showcase.png",
+  "caption": "🚀 Property Management System — powered by Google Sheets! Rent collection, leases & occupancy - visible at a glance. No monthly fees, free training included. 📩 Message us for a FREE consultation! #PropertyManagement #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 67,
+  "date": "2027-03-08",
+  "filename": "067_hotel_hook.png",
+  "caption": "🏨 Double-booked a room... again? There's a better way — our Hotel & Restaurant System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #HotelManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 68,
+  "date": "2027-03-10",
+  "filename": "068_clinic_features.png",
+  "caption": "✅ What you get with our Clinic Management System: Patient records & appointment scheduling • Billing & daily revenue tracking • Doctor schedules & visit history — plus free training & no monthly fees! 📩 FREE consultation! #ClinicManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 69,
+  "date": "2027-03-12",
+  "filename": "069_school_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Schools with digital fee tracking collect up to 10% more on time. Our School Management System fixes exactly this. 📩 Message us for a FREE consultation! #SchoolManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 70,
+  "date": "2027-03-15",
+  "filename": "070_lending_zoomkpi.png",
+  "caption": "📊 A peek inside our Loan Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #LendingBusiness #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 71,
+  "date": "2027-03-17",
+  "filename": "071_gym_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Gym Membership System. 📩 Message us for a FREE consultation! #GymBusiness #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 72,
+  "date": "2027-03-19",
+  "filename": "072_excel_benefit.png",
+  "caption": "📊 From raw data to boardroom-ready dashboard in one click. That's our Excel Dashboards & Templates, powered by Google Sheets. 📩 FREE consultation — message us today! #ExcelDashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 73,
+  "date": "2027-03-22",
+  "filename": "073_erp_faq.png",
+  "caption": "❓ \"Is it hard to use?\" 👉 If you can use Facebook, you can use our system. Free training included! — Business Management System. Got more questions? 📩 Message us for a FREE consultation! #BusinessSystem #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 74,
+  "date": "2027-03-24",
+  "filename": "074_sales_tip.png",
+  "caption": "💡 BUSINESS TIP: Your top 20% of products bring 80% of profit. Know them by name. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #Inventory #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 75,
+  "date": "2027-03-26",
+  "filename": "075_hris_stat.png",
+  "caption": "🔥 1 click — from attendance records to payroll summary! Get your own HR & Payroll System, powered by Google Sheets. 📩 FREE consultation! #Payroll #FormulaWorksSolutions"
+ },
+ {
+  "seq": 76,
+  "date": "2027-03-29",
+  "filename": "076_water_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Water Refilling Station System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #WaterStation #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 77,
+  "date": "2027-03-31",
+  "filename": "077_laundry_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Laundry Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #LaundryBusiness #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 78,
+  "date": "2027-04-02",
+  "filename": "078_brand_06.png",
+  "caption": "🔒 With us, your business data never lives on a stranger's server. It stays in YOUR Google account. 📩 FREE consultation! #DataPrivacy #FormulaWorksSolutions"
+ },
+ {
+  "seq": 79,
+  "date": "2027-04-05",
+  "filename": "079_hotel_showcase.png",
+  "caption": "🚀 Hotel & Restaurant System — powered by Google Sheets! Rooms, restaurant & housekeeping - one connected system. No monthly fees, free training included. 📩 Message us for a FREE consultation! #HotelManagement #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 80,
+  "date": "2027-04-07",
+  "filename": "080_clinic_hook.png",
+  "caption": "🏥 Patient records in 5 different folders? There's a better way — our Clinic Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #ClinicManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 81,
+  "date": "2027-04-09",
+  "filename": "081_school_features.png",
+  "caption": "✅ What you get with our School Management System: Enrollment & complete student records • Fees, payments & balance tracking • Grades & attendance reports — plus free training & no monthly fees! 📩 FREE consultation! #SchoolManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 82,
+  "date": "2027-04-12",
+  "filename": "082_lending_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Lenders without daily due-date tracking lose track of up to 1 in 5 collections. Our Loan Management System fixes exactly this. 📩 Message us for a FREE consultation! #LendingBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 83,
+  "date": "2027-04-14",
+  "filename": "083_gym_zoomkpi.png",
+  "caption": "📊 A peek inside our Gym Membership System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #GymBusiness #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 84,
+  "date": "2027-04-16",
+  "filename": "084_excel_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Excel Dashboards & Templates. 📩 Message us for a FREE consultation! #ExcelDashboard #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 85,
+  "date": "2027-04-19",
+  "filename": "085_erp_benefit.png",
+  "caption": "🏢 One dashboard for sales, purchases, inventory & accounting. That's our Business Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #BusinessSystem #FormulaWorksSolutions"
+ },
+ {
+  "seq": 86,
+  "date": "2027-04-21",
+  "filename": "086_sales_faq.png",
+  "caption": "❓ \"Can it alert me when stock is low?\" 👉 Yes! Red alerts appear automatically at your reorder point. — Sales & Inventory System. Got more questions? 📩 Message us for a FREE consultation! #Inventory #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 87,
+  "date": "2027-04-23",
+  "filename": "087_hris_tip.png",
+  "caption": "💡 BUSINESS TIP: Track attendance daily, not at cutoff. Your payroll day will thank you. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #Payroll #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 88,
+  "date": "2027-04-26",
+  "filename": "088_water_stat.png",
+  "caption": "🔥 Every gallon — tracked from refill to doorstep! Get your own Water Refilling Station System, powered by Google Sheets. 📩 FREE consultation! #WaterStation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 89,
+  "date": "2027-04-28",
+  "filename": "089_laundry_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Laundry Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #LaundryBusiness #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 90,
+  "date": "2027-04-30",
+  "filename": "090_property_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Property Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #PropertyManagement #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 91,
+  "date": "2027-05-03",
+  "filename": "091_brand_07.png",
+  "caption": "🎓 Every system comes with free training and support. We succeed when YOUR team succeeds. 📩 Message us! #FormulaWorksSolutions"
+ },
+ {
+  "seq": 92,
+  "date": "2027-05-05",
+  "filename": "092_clinic_showcase.png",
+  "caption": "🚀 Clinic Management System — powered by Google Sheets! Patient records, appointments & billing - organized and instant. No monthly fees, free training included. 📩 Message us for a FREE consultation! #ClinicManagement #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 93,
+  "date": "2027-05-07",
+  "filename": "093_school_hook.png",
+  "caption": "🏫 Enrollment week chaos every year? There's a better way — our School Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #SchoolManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 94,
+  "date": "2027-05-10",
+  "filename": "094_lending_features.png",
+  "caption": "✅ What you get with our Loan Management System: Borrower records & loan ledgers • Collections & amortization schedules • Overdue alerts & portfolio reports — plus free training & no monthly fees! 📩 FREE consultation! #LendingBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 95,
+  "date": "2027-05-12",
+  "filename": "095_gym_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Gyms recover up to 40% of lapsing members just by reminding them before expiry. Our Gym Membership System fixes exactly this. 📩 Message us for a FREE consultation! #GymBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 96,
+  "date": "2027-05-14",
+  "filename": "096_excel_zoomkpi.png",
+  "caption": "📊 A peek inside our Excel Dashboards & Templates — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #ExcelDashboard #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 97,
+  "date": "2027-05-17",
+  "filename": "097_erp_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Business Management System. 📩 Message us for a FREE consultation! #BusinessSystem #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 98,
+  "date": "2027-05-19",
+  "filename": "098_sales_benefit.png",
+  "caption": "🛒 Know exactly what's selling, what's left, and what to reorder. That's our Sales & Inventory System, powered by Google Sheets. 📩 FREE consultation — message us today! #Inventory #FormulaWorksSolutions"
+ },
+ {
+  "seq": 99,
+  "date": "2027-05-21",
+  "filename": "099_hris_faq.png",
+  "caption": "❓ \"Does it compute deductions?\" 👉 Yes - contributions, loans & absences are all payroll-ready. — HR & Payroll System. Got more questions? 📩 Message us for a FREE consultation! #Payroll #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 100,
+  "date": "2027-05-24",
+  "filename": "100_water_tip.png",
+  "caption": "💡 BUSINESS TIP: Count your containers weekly. Lost gallons are lost capital. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #WaterStation #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 101,
+  "date": "2027-05-26",
+  "filename": "101_laundry_stat.png",
+  "caption": "🔥 Zero — lost job orders with digital tracking! Get your own Laundry Management System, powered by Google Sheets. 📩 FREE consultation! #LaundryBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 102,
+  "date": "2027-05-28",
+  "filename": "102_property_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Property Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #PropertyManagement #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 103,
+  "date": "2027-05-31",
+  "filename": "103_hotel_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Hotel & Restaurant System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #HotelManagement #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 104,
+  "date": "2027-06-02",
+  "filename": "104_brand_08.png",
+  "caption": "📈 We've built systems for the smallest stores and full hotels. Wherever you are, we meet you there. 📩 FREE consultation! #SmallBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 105,
+  "date": "2027-06-04",
+  "filename": "105_school_showcase.png",
+  "caption": "🚀 School Management System — powered by Google Sheets! Enrollment, fees & grades - one organized system. No monthly fees, free training included. 📩 Message us for a FREE consultation! #SchoolManagement #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 106,
+  "date": "2027-06-07",
+  "filename": "106_lending_hook.png",
+  "caption": "💰 Who's due to pay you TODAY? There's a better way — our Loan Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #LendingBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 107,
+  "date": "2027-06-09",
+  "filename": "107_gym_features.png",
+  "caption": "✅ What you get with our Gym Membership System: Member profiles & digital check-ins • Subscription expiry alerts & renewals • Sales, classes & attendance reports — plus free training & no monthly fees! 📩 FREE consultation! #GymBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 108,
+  "date": "2027-06-11",
+  "filename": "108_excel_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Managers spend an average of 8 hours a week manually building reports. Our Excel Dashboards & Templates fixes exactly this. 📩 Message us for a FREE consultation! #ExcelDashboard #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 109,
+  "date": "2027-06-14",
+  "filename": "109_erp_zoomkpi.png",
+  "caption": "📊 A peek inside our Business Management System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #BusinessSystem #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 110,
+  "date": "2027-06-16",
+  "filename": "110_sales_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Sales & Inventory System. 📩 Message us for a FREE consultation! #Inventory #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 111,
+  "date": "2027-06-18",
+  "filename": "111_hris_benefit.png",
+  "caption": "👥 Attendance, leave & payroll - computed, not calculated by hand. That's our HR & Payroll System, powered by Google Sheets. 📩 FREE consultation — message us today! #Payroll #FormulaWorksSolutions"
+ },
+ {
+  "seq": 112,
+  "date": "2027-06-21",
+  "filename": "112_water_faq.png",
+  "caption": "❓ \"Can I track my delivery riders?\" 👉 Yes - every delivery is logged per rider with live status. — Water Refilling Station System. Got more questions? 📩 Message us for a FREE consultation! #WaterStation #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 113,
+  "date": "2027-06-23",
+  "filename": "113_laundry_tip.png",
+  "caption": "💡 BUSINESS TIP: Offer a loyalty discount on the 10th wash. Retention beats acquisition. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #LaundryBusiness #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 114,
+  "date": "2027-06-25",
+  "filename": "114_property_stat.png",
+  "caption": "🔥 96%+ — collection rates when overdue alerts work for you! Get your own Property Management System, powered by Google Sheets. 📩 FREE consultation! #PropertyManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 115,
+  "date": "2027-06-28",
+  "filename": "115_hotel_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Hotel & Restaurant System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #HotelManagement #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 116,
+  "date": "2027-06-30",
+  "filename": "116_clinic_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Clinic Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #ClinicManagement #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 117,
+  "date": "2027-07-02",
+  "filename": "117_brand_09.png",
+  "caption": "📓➡️📊 The upgrade your business deserves, minus the enterprise price tag. 📩 Message us for a FREE consultation! #DigitalTransformation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 118,
+  "date": "2027-07-05",
+  "filename": "118_lending_showcase.png",
+  "caption": "🚀 Loan Management System — powered by Google Sheets! Every borrower, every due date, every peso - tracked. No monthly fees, free training included. 📩 Message us for a FREE consultation! #LendingBusiness #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 119,
+  "date": "2027-07-07",
+  "filename": "119_gym_hook.png",
+  "caption": "🏋️ Members expiring without renewing? There's a better way — our Gym Membership System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #GymBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 120,
+  "date": "2027-07-09",
+  "filename": "120_excel_features.png",
+  "caption": "✅ What you get with our Excel Dashboards & Templates: Interactive KPI dashboards with slicers • Auto-refresh from your raw data • Custom templates for any business — plus free training & no monthly fees! 📩 FREE consultation! #ExcelDashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 121,
+  "date": "2027-07-12",
+  "filename": "121_erp_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Businesses lose up to 20% of revenue to manual record-keeping errors. Our Business Management System fixes exactly this. 📩 Message us for a FREE consultation! #BusinessSystem #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 122,
+  "date": "2027-07-14",
+  "filename": "122_sales_zoomkpi.png",
+  "caption": "📊 A peek inside our Sales & Inventory System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #Inventory #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 123,
+  "date": "2027-07-16",
+  "filename": "123_hris_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our HR & Payroll System. 📩 Message us for a FREE consultation! #Payroll #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 124,
+  "date": "2027-07-19",
+  "filename": "124_water_benefit.png",
+  "caption": "💧 Every gallon, every rider, every peso - accounted for. That's our Water Refilling Station System, powered by Google Sheets. 📩 FREE consultation — message us today! #WaterStation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 125,
+  "date": "2027-07-21",
+  "filename": "125_laundry_faq.png",
+  "caption": "❓ \"Can customers be notified when laundry is ready?\" 👉 Yes - statuses update instantly so your staff can message them on time. — Laundry Management System. Got more questions? 📩 Message us for a FREE consultation! #LaundryBusiness #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 126,
+  "date": "2027-07-23",
+  "filename": "126_property_tip.png",
+  "caption": "💡 BUSINESS TIP: Send rent reminders 3 days early. Gentle nudges beat awkward follow-ups. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #PropertyManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 127,
+  "date": "2027-07-26",
+  "filename": "127_hotel_stat.png",
+  "caption": "🔥 1 system — from front desk to kitchen to housekeeping! Get your own Hotel & Restaurant System, powered by Google Sheets. 📩 FREE consultation! #HotelManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 128,
+  "date": "2027-07-28",
+  "filename": "128_clinic_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Clinic Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #ClinicManagement #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 129,
+  "date": "2027-07-30",
+  "filename": "129_school_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a School Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #SchoolManagement #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 130,
+  "date": "2027-08-02",
+  "filename": "130_brand_10.png",
+  "caption": "💬 Tell us your business type in the comments and we'll reply with exactly how a custom system can help you! 📩 Or message us directly! #FormulaWorksSolutions"
+ },
+ {
+  "seq": 131,
+  "date": "2027-08-04",
+  "filename": "131_gym_showcase.png",
+  "caption": "🚀 Gym Membership System — powered by Google Sheets! Check-ins, renewals & sales - your gym on autopilot. No monthly fees, free training included. 📩 Message us for a FREE consultation! #GymBusiness #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 132,
+  "date": "2027-08-06",
+  "filename": "132_excel_hook.png",
+  "caption": "📊 Your reports take DAYS to prepare? There's a better way — our Excel Dashboards & Templates runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #ExcelDashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 133,
+  "date": "2027-08-09",
+  "filename": "133_erp_features.png",
+  "caption": "✅ What you get with our Business Management System: Sales, purchasing, inventory & accounting in one place • Real-time dashboards & automated reports • Runs 100% on Google Sheets - access anywhere — plus free training & no monthly fees! 📩 FREE consultation! #BusinessSystem #FormulaWorksSolutions"
+ },
+ {
+  "seq": 134,
+  "date": "2027-08-11",
+  "filename": "134_sales_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Small retailers who track inventory manually overstock by up to 30%. Our Sales & Inventory System fixes exactly this. 📩 Message us for a FREE consultation! #Inventory #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 135,
+  "date": "2027-08-13",
+  "filename": "135_hris_zoomkpi.png",
+  "caption": "📊 A peek inside our HR & Payroll System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #Payroll #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 136,
+  "date": "2027-08-16",
+  "filename": "136_water_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Water Refilling Station System. 📩 Message us for a FREE consultation! #WaterStation #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 137,
+  "date": "2027-08-18",
+  "filename": "137_laundry_benefit.png",
+  "caption": "🧺 Every kilo tracked, every pickup scheduled, every customer happy. That's our Laundry Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #LaundryBusiness #FormulaWorksSolutions"
+ },
+ {
+  "seq": 138,
+  "date": "2027-08-20",
+  "filename": "138_property_faq.png",
+  "caption": "❓ \"Can it flag overdue tenants?\" 👉 Yes - overdue accounts turn red automatically with amounts owed. — Property Management System. Got more questions? 📩 Message us for a FREE consultation! #PropertyManagement #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 139,
+  "date": "2027-08-23",
+  "filename": "139_hotel_tip.png",
+  "caption": "💡 BUSINESS TIP: Track your occupancy rate weekly. It is the heartbeat of your hotel. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #HotelManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 140,
+  "date": "2027-08-25",
+  "filename": "140_clinic_stat.png",
+  "caption": "🔥 Seconds — to pull up any patient's complete visit history! Get your own Clinic Management System, powered by Google Sheets. 📩 FREE consultation! #ClinicManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 141,
+  "date": "2027-08-27",
+  "filename": "141_school_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our School Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #SchoolManagement #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 142,
+  "date": "2027-08-30",
+  "filename": "142_lending_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Loan Management System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #LendingBusiness #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 143,
+  "date": "2027-09-01",
+  "filename": "143_brand_11.png",
+  "caption": "📊 You can't improve what you don't measure. Start tracking your business today! 📩 FREE consultation! #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 144,
+  "date": "2027-09-03",
+  "filename": "144_excel_showcase.png",
+  "caption": "🚀 Excel Dashboards & Templates — powered by Google Sheets! From raw data to boardroom-ready dashboard in one click. No monthly fees, free training included. 📩 Message us for a FREE consultation! #ExcelDashboard #GoogleSheets #FormulaWorksSolutions"
+ },
+ {
+  "seq": 145,
+  "date": "2027-09-06",
+  "filename": "145_erp_hook.png",
+  "caption": "🏢 Still running your business on paper? There's a better way — our Business Management System runs on Google Sheets with no monthly fees. 📩 Message us for a FREE consultation! #BusinessSystem #FormulaWorksSolutions"
+ },
+ {
+  "seq": 146,
+  "date": "2027-09-08",
+  "filename": "146_sales_features.png",
+  "caption": "✅ What you get with our Sales & Inventory System: Fast POS-style sales recording • Low-stock alerts & reorder points • Track daily sales & profit in real time — plus free training & no monthly fees! 📩 FREE consultation! #Inventory #FormulaWorksSolutions"
+ },
+ {
+  "seq": 147,
+  "date": "2027-09-10",
+  "filename": "147_hris_didyouknow.png",
+  "caption": "💡 DID YOU KNOW? Manual payroll has a 1-8% error rate. That is real money every cutoff. Our HR & Payroll System fixes exactly this. 📩 Message us for a FREE consultation! #Payroll #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 148,
+  "date": "2027-09-13",
+  "filename": "148_water_zoomkpi.png",
+  "caption": "📊 A peek inside our Water Refilling Station System — live KPI cards that update themselves all day. Your numbers, always fresh. 📩 FREE consultation! #WaterStation #Dashboard #FormulaWorksSolutions"
+ },
+ {
+  "seq": 149,
+  "date": "2027-09-15",
+  "filename": "149_laundry_zoomchart.png",
+  "caption": "📈 See trends before they cost you! Charts auto-build from your daily records in our Laundry Management System. 📩 Message us for a FREE consultation! #LaundryBusiness #DataDriven #FormulaWorksSolutions"
+ },
+ {
+  "seq": 150,
+  "date": "2027-09-17",
+  "filename": "150_property_benefit.png",
+  "caption": "🏘️ Rent collection, leases & occupancy - visible at a glance. That's our Property Management System, powered by Google Sheets. 📩 FREE consultation — message us today! #PropertyManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 151,
+  "date": "2027-09-20",
+  "filename": "151_hotel_faq.png",
+  "caption": "❓ \"Does it handle both rooms AND the restaurant?\" 👉 Yes - front desk, restaurant POS & housekeeping in one system. — Hotel & Restaurant System. Got more questions? 📩 Message us for a FREE consultation! #HotelManagement #FAQ #FormulaWorksSolutions"
+ },
+ {
+  "seq": 152,
+  "date": "2027-09-22",
+  "filename": "152_clinic_tip.png",
+  "caption": "💡 BUSINESS TIP: Block 15-minute buffers between appointments. Your queue will flow better. Want a system that makes it automatic? 📩 Message us for a FREE consultation! #ClinicManagement #BusinessTips #FormulaWorksSolutions"
+ },
+ {
+  "seq": 153,
+  "date": "2027-09-24",
+  "filename": "153_school_stat.png",
+  "caption": "🔥 100% — of student records searchable in seconds! Get your own School Management System, powered by Google Sheets. 📩 FREE consultation! #SchoolManagement #FormulaWorksSolutions"
+ },
+ {
+  "seq": 154,
+  "date": "2027-09-27",
+  "filename": "154_lending_beforeafter.png",
+  "caption": "😩➡️🚀 From chaos to clarity with our Loan Management System! No monthly fees, your data stays yours. 📩 Message us for a FREE consultation! #LendingBusiness #Upgrade #FormulaWorksSolutions"
+ },
+ {
+  "seq": 155,
+  "date": "2027-09-29",
+  "filename": "155_gym_promo.png",
+  "caption": "🎁 FREE CONSULTATION! Curious how a Gym Membership System would work for YOUR business? Tell us about it — no cost, no commitment. 📩 Message us now! #GymBusiness #FreeConsultation #FormulaWorksSolutions"
+ },
+ {
+  "seq": 156,
+  "date": "2027-10-01",
+  "filename": "156_brand_12.png",
+  "caption": "⏰ The best time to systemize your business was yesterday. The second best time is today. 📩 FREE consultation - it's free! #FormulaWorksSolutions"
+ }
+]
